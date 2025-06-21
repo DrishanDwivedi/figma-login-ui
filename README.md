@@ -31,8 +31,6 @@ This is a simple login + forgot password UI flow made using Figma.
 ## 💡 Tools Used
 
 - Figma (for UI Design)
-- GitHub (for version control + portfolio)
-
 ---
 
 ## ✨ Author
