@@ -9,14 +9,19 @@ This is a simple login + forgot password UI flow made using Figma.
 👉 [View Full Design on Figma](https://www.figma.com/design/WWFS6Msxl800ohCG5frIzb/Login?node-id=0-101&t=yy6Xg6BTDitzY52K-1)
 ## 📸 Screenshots
 
+### Homepage
+![Homepage](Screens/Homepage.png)
+
 ### Login Page
-![Login](screens/Login_page.png)
+![Login](Screens/Login_page.png)
+![Login](Screens/Login_page2.png)
 
 ### Forgot Password
-![Forgot](screens/forgot_page.png)
+![Forgot](Screens/forgot_page.png)
+![Forgot](Screens/forgot_page2.png)
 
 ### Register Page
-![Reset](screens/Register_page.png)
+![Register](Screens/Register_page.png)
 
 ---
 
