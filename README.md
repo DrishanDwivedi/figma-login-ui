@@ -1,5 +1,5 @@
 # figma-login-ui
-A simple login + forgot password UI made in Figma
+A simple login + forgot password + register UI made in Figma
 # 🔐 Login UI Design in Figma
 
 This is a simple login + forgot password UI flow made using Figma.
